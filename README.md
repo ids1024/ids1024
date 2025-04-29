@@ -4,4 +4,4 @@ Rust is generally my language of choice (at least for certain things), but it ca
 
 Graduated UC Davis 2020, B.S. Computer Science with minors in Mathematics and Latin. Because of course.
 
-<a rel="me" href="https://fosstodon.org/@ids1024">Mastodon</a>
+<a rel="me" href="https://mathstodon.xyz/@ids1024">Mastodon</a>
